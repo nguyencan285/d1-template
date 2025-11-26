@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "662bd11c-8c2f-4530-9a0d-36e85d004080",
+      "database_name": "ticket_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
